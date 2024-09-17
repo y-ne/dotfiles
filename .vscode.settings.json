@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 2,
+    "editor.cursorStyle": "block",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.settings.applyToAllProfiles": [
+    ]
+}
