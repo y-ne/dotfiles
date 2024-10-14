@@ -6,17 +6,18 @@
     "editor.cursorBlinking": "solid",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "workbench.settings.applyToAllProfiles": [
-
-    ],
+    "workbench.settings.applyToAllProfiles": [],
     "git.openRepositoryInParentFolders": "never",
     "workbench.sideBar.location": "right",
     "reactSnippets.settings.prettierEnabled": true,
     "prettier.tabWidth": 4,
-    "files.autoSave": "onWindowChange",
-    "settingsSync.ignoredExtensions": [
-    
-
-    ],
-    "editor.formatOnSave": true
+    "settingsSync.ignoredExtensions": [],
+    "editor.formatOnSave": true,
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "catppuccin-frappe",
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "javascript.suggest.paths": false,
+    "typescript.suggest.paths": false,
 }
