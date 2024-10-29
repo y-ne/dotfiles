@@ -1,6 +1,6 @@
 {
     "workbench.colorTheme": "Catppuccin Frappé",
-    "editor.fontSize": 16,
+    "editor.fontSize": 18,
     "editor.lineHeight": 2,
     "editor.cursorStyle": "block",
     "editor.cursorBlinking": "solid",
@@ -20,4 +20,8 @@
     "explorer.confirmDelete": false,
     "javascript.suggest.paths": false,
     "typescript.suggest.paths": false,
+    "terminal.integrated.defaultProfile.windows": "Debian",
+    "remote.WSL.fileWatcher.polling": true,
+    "remote.WSL.debug": true,
+    "terminal.integrated.gpuAcceleration": "on",
 }
