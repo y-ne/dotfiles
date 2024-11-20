@@ -1,3 +1,4 @@
+# C:/User/<your_user>/.wslconfig
 [wsl2]
 memory=12GB
 swap=4GB
