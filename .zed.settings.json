@@ -1,0 +1,37 @@
+{
+	"project_panel": {
+		"dock": "right"
+	},
+	"agent": {
+		"default_model": {
+			"provider": "anthropic",
+			"model": "claude-3-5-sonnet-latest"
+		},
+		"version": "2"
+	},
+	"ui_font_size": 12,
+	"buffer_font_family": "Zed Plex Mono",
+	"buffer_font_size": 18,
+	"buffer_font_weight": 501,
+	"buffer_line_height": {
+		"custom": 2
+	},
+	"theme": {
+		"mode": "system",
+		"light": "One Light",
+		"dark": "Catppuccin Frappé"
+	},
+	"format_on_save": "on",
+	"tab_size": 4,
+	"hard_tabs": true,
+	"languages": {
+		"TypeScript": {
+			"formatter": "prettier"
+		},
+		"Terraform": {
+			"format_on_save": "off",
+			"tab_size": 4,
+			"hard_tabs": true
+		}
+	}
+}
