@@ -13,8 +13,6 @@ Change to Fedora44
 ```
 sudo dnf install ncurses
 
-sudo dnf install @development-tools
-
-# for pico-sdk
-sudo dnf install cmake python3 arm-none-eabi-binutils-cs arm-none-eabi-gcc-cs arm-none-eabi-gcc-cs-c++ arm-none-eabi-newlib
+# pico-sdk
+sudo dnf install -y @development-tools gcc-c++ cmake python3 arm-none-eabi-binutils-cs arm-none-eabi-gcc-cs arm-none-eabi-gcc-cs-c++ arm-none-eabi-newlib
 ```
