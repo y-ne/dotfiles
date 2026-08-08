@@ -15,6 +15,6 @@ sudo dnf install ncurses
 
 sudo dnf install @development-tools
 
-# for PICO-SDK
+# for pico-sdk
 sudo dnf install cmake python3 arm-none-eabi-binutils-cs arm-none-eabi-gcc-cs arm-none-eabi-gcc-cs-c++ arm-none-eabi-newlib
 ```
